@@ -1,0 +1,12 @@
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\bin\Debug\netcoreapp2.0\Menu.deps.json
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\bin\Debug\netcoreapp2.0\Menu.runtimeconfig.json
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\bin\Debug\netcoreapp2.0\Menu.runtimeconfig.dev.json
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\bin\Debug\netcoreapp2.0\Menu.dll
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\bin\Debug\netcoreapp2.0\Menu.pdb
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\obj\Debug\netcoreapp2.0\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\obj\Debug\netcoreapp2.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\obj\Debug\netcoreapp2.0\Menu.AssemblyInfoInputs.cache
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\obj\Debug\netcoreapp2.0\Menu.AssemblyInfo.cs
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\obj\Debug\netcoreapp2.0\Menu.dll
+C:\Users\Rogers\Documents\lc101\Unit-3\Menu\Menu\obj\Debug\netcoreapp2.0\Menu.pdb
